@@ -1,3 +1,6 @@
+<div style="text-align:center"><img src="images/oldest_news_stand.jpg" /></div>
+
+
 ## News Content API
 
 I am attemping to port my [capstone project](https://github.com/osterburg/news-content-capstone-project) about news content to an API and a dashboard. Not sure right now if I am going to use [plotly](https://plot.ly/products/dash/) or something else like [elastic](https://www.elastic.co/guide/en/kibana/current/dashboard.html).
