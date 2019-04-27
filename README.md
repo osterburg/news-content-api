@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="images/oldest_news_stand.jpg" /></div>
+![News Content](images/oldest_news_stand.jpg?style=centerme)
 
 
 ## News Content API
